@@ -14,20 +14,15 @@ Official logos for the **go-compressions** organization.
 - **GitHub avatar** 512 px — `avatar/`
 - **Social preview** 1280×640 (repo banner) — `social/`
 
-## Repos (10)
+## Repos (5)
 
 | | repo |
 |---|---|
-| <img src="avatar/go-compressions-brotli.png" width="48"> | `brotli` |
-| <img src="avatar/go-compressions-bzip2.png" width="48"> | `bzip2` |
-| <img src="avatar/go-compressions-deflate.png" width="48"> | `deflate` |
-| <img src="avatar/go-compressions-gzip.png" width="48"> | `gzip` |
 | <img src="avatar/go-compressions-lz4.png" width="48"> | `lz4` |
-| <img src="avatar/go-compressions-lzma.png" width="48"> | `lzma` |
-| <img src="avatar/go-compressions-snappy.png" width="48"> | `snappy` |
-| <img src="avatar/go-compressions-xz.png" width="48"> | `xz` |
-| <img src="avatar/go-compressions-zlib.png" width="48"> | `zlib` |
-| <img src="avatar/go-compressions-zstd.png" width="48"> | `zstd` |
+| <img src="avatar/go-compressions-blake3.png" width="48"> | `blake3` |
+| <img src="avatar/go-compressions-b3sum.png" width="48"> | `b3sum` |
+| <img src="avatar/go-compressions-lzfse.png" width="48"> | `lzfse` |
+| <img src="avatar/go-compressions-lzfsec.png" width="48"> | `lzfsec` |
 
 ---
 *Auto-generated assets — rounded square badge, line glyph, color / white / black variants.*
