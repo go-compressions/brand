@@ -14,11 +14,12 @@ Official logos for the **go-compressions** organization.
 - **GitHub avatar** 512 px — `avatar/`
 - **Social preview** 1280×640 (repo banner) — `social/`
 
-## Repos (5)
+## Repos (6)
 
 | | repo |
 |---|---|
 | <img src="avatar/go-compressions-lz4.png" width="48"> | `lz4` |
+| <img src="avatar/go-compressions-lz4c.png" width="48"> | `lz4c` |
 | <img src="avatar/go-compressions-blake3.png" width="48"> | `blake3` |
 | <img src="avatar/go-compressions-b3sum.png" width="48"> | `b3sum` |
 | <img src="avatar/go-compressions-lzfse.png" width="48"> | `lzfse` |
